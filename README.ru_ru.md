@@ -1,4 +1,4 @@
-мотреть на другом языке: [English](../master/README.md "View in English"), [toki pona](../master/README.tok.md "lukin kepeken toki pona")
+Смотреть на другом языке: [English](../master/README.md "View in English"), [toki pona](../master/README.tok.md "lukin kepeken toki pona")
 
 # AkashicRecord (ХронкиАкаши)
 История вселенной моей, гадаю.
