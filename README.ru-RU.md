@@ -1,6 +1,6 @@
 Смотреть на другом языке: [English](../master/README.md "View in English"), [toki pona](../master/README.tok.md "lukin kepeken toki pona")
 
-# AkashicRecord (ХронкиАкаши)
+# ХронкиАкаши (AkashicRecord)
 История вселенной моей, гадаю.
 
 Этот репозиторий храню большой кусок кода, который написал я. Он для хранения. Не стесняйтесь просматривать !
