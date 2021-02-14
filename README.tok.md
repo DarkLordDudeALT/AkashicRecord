@@ -3,6 +3,6 @@ lukin kepeken toki ante: [English](../master/README.md "View in English"), [Ру
 # LipuAli (AkashicRecord)
 ijo pi tenpo pini pi ali mi, mi pilin.
 
-poki ni li jo e nimi wawa mute mi pi ilo nanpa li tawa poki pona. o pilin pona tawa ni: lukin e ona!
+poki ni li jo e nimi wawa mute mi pi ilo nanpa e nasin wawa mute mi li tawa poki pona. o pilin pona tawa ni: lukin e ona!
 
 o sona e ni: mute pi nimi ni li ike mute kin.
